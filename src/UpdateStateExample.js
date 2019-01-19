@@ -35,7 +35,7 @@ class UpdateStateExample extends Component {
       </div>
       <div>
       <input name="address" value={address} onChange={this.handleChange} />-
-      <input name="phone" value={address} onChange={this.handleChange} />
+      <input name="phone" value={phone} onChange={this.handleChange} />
       </div>
     </>
   }
